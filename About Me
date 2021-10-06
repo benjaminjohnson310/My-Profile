@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <style>
+            img {
+  border-radius: 50%;
+}
+        img {
+            float: left;
+          }
+          body {
+ background-image: url("https://www.diversityintech.co.uk/wp-content/uploads/2019/03/tech-regulation.jpg");
+}
+         
+          body {
+              background-color: ();
+              color: white;
+            }
+            </style>
+        <title>About Me </title>
+    </head>
+    <body>
+        <h1>Benjamin Johnson</h1>
+
+        <h2>Web Developer, Software Engineer, and Student in Nashville</h2>
+        
+        <p><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHTKWnxSf9twA/profile-displayphoto-shrink_200_200/0/1517536645418?e=1639008000&v=beta&t=dYDp_nd52x6Ur5QPMe4mB9tMvJhhP8wahAxP3BpoLZA" alt="me" style="width:300px;height:300px;margin-left:50px;">
+
+    </body>
+    <p>Hi, I’m Benjamin. I’m a web developer living in Nashville. 
+        I am a fan of technology, web development, and fitness. 
+        I’m also interested in food and movies. I will now fill in this area with a bunch of random data.
+        I love flying bicycles at night when it is warm outside.
+        The side of my television has a crawl space for vilans. 
+        When they do pushups, their legs start to grow sideways. 
+        Even if the clouds actually fall, the gravity will not reflect the civilization of the space people. 
+        For more outlandish information, 
+        you can contact me by email at <p><a href="mailto:benjaminjohnson310@gmail.com">benjaminjohnson310@gmail.com</a></p>
+        </p>
+</html>
